@@ -1,11 +1,11 @@
-This is a repository for testing a simple system vote in Noir.
+This is a repository for testing Semaphore circuits in Noir.
 
 ## 🛠 Install
 
 Clone this repository:
 
 ```bash
-git clone https://github.com/Lauman/simple_vote_noir.git
+git clone https://github.com/Lauman/noir-semaphore-example.git
 ```
 
 Install the dependencies:
