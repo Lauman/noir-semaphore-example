@@ -1,11 +1,11 @@
-This is a repository for testing Semaphore circuits in Noir.
+This is a repository for testing a simple system vote in Noir.
 
 ## 🛠 Install
 
 Clone this repository:
 
 ```bash
-git clone https://github.com/Lauman/noir-semaphore-example.git
+git clone https://github.com/Lauman/simple_vote_noir.git
 ```
 
 Install the dependencies:
@@ -20,11 +20,3 @@ npm install
 npm run dev
 ```
 
-## Acknowledgements / Dependencies
-
-This project makes use of the following open-source libraries:
-
-* [Noir Semaphore](https://github.com/hashcloak/semaphore-noir)
-* [Snark-artifacts](https://github.com/hashcloak/snark-artifacts)
-
-We extend our sincere gratitude to the creators and maintainers of these packages for their excellent work.
