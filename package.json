@@ -13,9 +13,12 @@
   "description": "",
   "dependencies": {
     "@noir-lang/noir_js": "^1.0.0-beta.3",
-    "@semaphore-protocol/group": "^4.9.1",
-    "@semaphore-protocol/identity": "^4.9.1",
+    "@semaphore-protocol/data": "4.10.0",
+    "@semaphore-protocol/group": "4.9.1",
+    "@semaphore-protocol/identity": "4.9.1",
     "@semaphore-protocol/proof": "file:./semaphore-protocol-proof-4.9.1.tgz",
+    "@semaphore-protocol/utils": "^4.10.0",
+    "dotenv": "^16.5.0",
     "poseidon-lite": "^0.3.0"
   },
   "devDependencies": {
