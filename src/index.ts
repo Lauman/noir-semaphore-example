@@ -20,7 +20,7 @@ async function main() {
     const identity = new Identity("secret")
 
     // Re create group 
-    const members = await reCreateGroup("0",'scroll-sepolia')
+    const members = await reCreateGroup("0",'sepolia')
 
     const group = new Group(members)
 
